@@ -1,0 +1,92 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    background-color: #ffdfce;
+}
+
+.cabecalho {
+    background-color: #ffdfce;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-imagem {
+     width: 80%
+}
+
+ .cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+ }
+
+.propaganda{
+
+display: inline-block;
+width: 1300px;
+margin: 30px 20px;
+}
+
+.fila-um {
+
+display: inline-block;
+width: 250px;
+margin: 0 40px;
+}
+
+.fila-um-letras{
+
+    display: inline-block;
+    margin: 10px 101px;
+    font-size: 23px;
+}
+
+.fila-dois{
+
+    display: inline-block;
+    width: 250px;
+    margin: 20px 40px;
+}
+
+.fila-dois-letras{
+
+    display: inline-block;
+    margin: 10px 116px;
+    font-size: 23px;
+}
+
+.fila-tres{
+
+    display: inline-block;
+    width: 250px;
+    margin: 20px 40px;
+}
+
+.fila-tres-letras{
+
+    display: inline-block;
+    margin: 10px 107px;
+    font-size: 23px;
+}
+
+.fila-quatro{
+ 
+    display: inline-block;
+    width: 250px;
+    margin: 20px 40px;
+
+}
+
+.fila-quatro-letras{
+
+    display: inline-block;
+    margin: 10px 115px;
+    font-size: 23px;
+
+}
