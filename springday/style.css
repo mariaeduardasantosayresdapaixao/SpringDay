@@ -5,7 +5,10 @@
 }
 
 .body{
-    background-color: #ffdfce;
+  
+   background-color: #ffdfce;
+
+    font-family: 'Poppins', sans-serif;
 }
 
 .cabecalho {
@@ -43,8 +46,8 @@ margin: 0 40px;
 .fila-um-letras{
 
     display: inline-block;
-    margin: 10px 101px;
-    font-size: 23px;
+    margin: 10px 95px;
+    font-size: 19px;
 }
 
 .fila-dois{
@@ -57,9 +60,10 @@ margin: 0 40px;
 .fila-dois-letras{
 
     display: inline-block;
-    margin: 10px 116px;
-    font-size: 23px;
+    margin: 10px 115px;
+    font-size: 19px;
 }
+
 
 .fila-tres{
 
@@ -71,8 +75,8 @@ margin: 0 40px;
 .fila-tres-letras{
 
     display: inline-block;
-    margin: 10px 107px;
-    font-size: 23px;
+    margin: 10px 102px;
+    font-size: 19px;
 }
 
 .fila-quatro{
@@ -86,7 +90,33 @@ margin: 0 40px;
 .fila-quatro-letras{
 
     display: inline-block;
-    margin: 10px 115px;
-    font-size: 23px;
+    margin: 10px 111px;
+    font-size: 19px;
+
+}
+
+.rodape{
+
+  background-color: #ffffff;
+
+}
+
+.rodape-letra{
+
+    
+    display: inline-block;
+    margin: 40px  550px;
+
+}
+
+.informacao{
+font-style: italic;
+margin: 20px 500px;
+
+}
+
+.informa{
+font-style: italic;
+margin: 20px 550px;
 
 }
