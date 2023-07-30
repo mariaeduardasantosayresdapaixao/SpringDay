@@ -75,7 +75,7 @@ margin: 0 40px;
 .fila-tres-letras{
 
     display: inline-block;
-    margin: 10px 102px;
+    margin: 10px 100px;
     font-size: 19px;
 }
 
@@ -118,5 +118,21 @@ margin: 20px 500px;
 .informa{
 font-style: italic;
 margin: 20px 550px;
+
+}
+
+.cinco-letras{
+
+display: inline-block;
+margin: 10px 104px;
+font-size: 19px;
+
+}
+
+.seis-letras{
+
+display: inline-block;
+margin: 10px 90px;
+font-size: 19px;
 
 }
