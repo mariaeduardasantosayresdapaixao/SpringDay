@@ -117,7 +117,7 @@ margin: 20px 500px;
 
 .informa{
 font-style: italic;
-margin: 20px 550px;
+margin: 20px 555px;
 
 }
 
@@ -134,5 +134,20 @@ font-size: 19px;
 display: inline-block;
 margin: 10px 90px;
 font-size: 19px;
+
+}
+
+
+.HISTORIA{
+
+margin: 40px 565px 0  565px;
+
+}
+
+.video{
+
+display: inline-block;
+margin: 0 350px  50px 350px;
+
 
 }
