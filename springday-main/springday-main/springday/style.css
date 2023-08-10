@@ -118,7 +118,7 @@ cursor: pointer;
 .fila-tres-letras{
 
     display: inline-block;
-    margin: 10px 165px;
+    margin: 10px 170px;
     font-size: 19px;
 
  background: #ffdfce;
@@ -153,6 +153,90 @@ cursor: pointer;
     text-align: center;
     user-select: none;
     cursor: pointer;
+}
+
+.fila-cinco{
+
+
+
+}
+
+.cinco-letras{
+
+    display: inline-block;
+    margin: 10px 175px;
+    font-size: 19px;
+    
+    background: #ffdfce;
+    border: 1px solid #ffdfce;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    }
+
+.fila-seis{
+
+    display: inline-block;
+    width: 300px;
+    margin: 10px 85px 10px  85px;
+}
+
+    .seis-letras{
+
+        display: inline-block;
+        margin: 10px 159px;
+        font-size: 19px;
+        
+        background: #ffdfce;
+        border: 1px solid #ffdfce;
+        border-radius: 5px;
+        text-align: center;
+        user-select: none;
+        cursor: pointer;
+        }
+        
+     .sete-letras{
+
+         display: inline-block;
+         margin: 10px 170px;
+         font-size: 19px;
+        
+        
+         background: #ffdfce;
+         border: 1px solid #ffdfce;
+         border-radius: 5px;
+         text-align: center;
+         user-select: none;
+         cursor: pointer;
+        
+        }
+
+.fila-oito{
+
+    display: inline-block;
+    width: 300px;
+    margin: 10px 85px 10px  85px;
+
+
+}
+
+ .oito-letras{
+
+
+            display: inline-block;
+            margin: 10px 179px;
+            font-size: 19px;
+        
+        
+            background: #ffdfce;
+            border: 1px solid #ffdfce;
+            border-radius: 5px;
+            text-align: center;
+            user-select: none;
+            cursor: pointer;
+        
+        
 }
 
 .rodape{
@@ -205,67 +289,6 @@ cursor: pointer;
 
     background: #ffffff;
     transition: background 1s;
-
-}
-
-.cinco-letras{
-
-display: inline-block;
-margin: 10px 160px;
-font-size: 19px;
-
-background: #ffdfce;
-border: 1px solid #ffdfce;
-border-radius: 5px;
-text-align: center;
-user-select: none;
-cursor: pointer;
-}
-
-.seis-letras{
-
-display: inline-block;
-margin: 10px 145px;
-font-size: 19px;
-
-background: #ffdfce;
-border: 1px solid #ffdfce;
-border-radius: 5px;
-text-align: center;
-user-select: none;
-cursor: pointer;
-}
-
-.sete-letras{
-
-    display: inline-block;
-    margin: 10px 156px;
-    font-size: 19px;
-
-
-    background: #ffdfce;
-    border: 1px solid #ffdfce;
-    border-radius: 5px;
-    text-align: center;
-    user-select: none;
-    cursor: pointer;
-
-}
-
-.oito-letras{
-
-
-    display: inline-block;
-    margin: 10px 165px;
-    font-size: 19px;
-
-
-    background: #ffdfce;
-    border: 1px solid #ffdfce;
-    border-radius: 5px;
-    text-align: center;
-    user-select: none;
-    cursor: pointer;
 
 }
 
