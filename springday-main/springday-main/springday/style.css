@@ -1,0 +1,284 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+  
+   background-color: #ffdfce;
+user-select: none;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.cabecalho {
+    background-color: #ffdfce;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-imagem {
+     width: 80%
+     
+}
+
+ .cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    background: #ffdfce;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+ }
+
+ .cabecalho-lista-item:hover{
+
+   background: #ffffff;
+   transition: background 1s;
+
+ }
+
+ .href {
+
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    background: #ffdfce;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+
+ }
+
+.propaganda{
+
+display: inline-block;
+width: 1300px;
+margin: 10px 300px;
+}
+
+.fila-um {
+
+display: inline-block;
+width: 300px;
+margin: 10px 85px 10px  85px;
+}
+
+.fila-um-letras{
+
+    display: inline-block;
+    margin: 10px 165px;
+    font-size: 19px;
+
+    background: #ffdfce;
+    border: 1px solid #ffdfce;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
+
+.fila-dois{
+display: inline-block;
+width: 300px;
+margin: 10px 85px 10px 85px;
+ 
+}
+
+.fila-dois-letras{
+
+    display: inline-block;
+    margin: 10px 185px;
+    font-size: 19px;
+
+background: #ffdfce;
+border: 1px solid #ffdfce;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+}
+
+
+.fila-tres{
+
+    display: inline-block;
+    width: 255px;
+    margin: 20px 100px;
+}
+
+.fila-tres-letras{
+
+    display: inline-block;
+    margin: 10px 165px;
+    font-size: 19px;
+
+ background: #ffdfce;
+border: 1px solid #ffdfce;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+}
+
+.fila-quatro{
+ display: inline-block;
+ width: 255px;
+ margin: 20px 100px;
+}
+
+.fila-4{
+    display: inline-block;
+    width: 265px;
+    margin: 20px 100px;
+}
+
+.fila-quatro-letras{
+
+    display: inline-block;
+    margin: 10px 175px;
+    font-size: 19px;
+
+    background: #ffdfce;
+    border: 1px solid #ffdfce;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
+
+.rodape{
+
+  background-color: #ffffff;
+
+}
+
+.rodape-letra{
+
+    
+    display: inline-block;
+    margin: 40px  880px;
+    font-size: medium;
+
+}
+
+.informacao{
+font-style: italic;
+margin: 20px 500px;
+
+background: #ffdfce;
+border: 1px solid #555;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+}
+
+.informacao:hover{
+
+    background: #ffffff;
+    transition: background 1s;
+
+}
+
+.informa{
+font-style: italic;
+margin: 20px 555px;
+
+background: #ffdfce;
+border: 1px solid #555;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+}
+
+.informa:hover{
+
+    background: #ffffff;
+    transition: background 1s;
+
+}
+
+.cinco-letras{
+
+display: inline-block;
+margin: 10px 160px;
+font-size: 19px;
+
+background: #ffdfce;
+border: 1px solid #ffdfce;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+}
+
+.seis-letras{
+
+display: inline-block;
+margin: 10px 145px;
+font-size: 19px;
+
+background: #ffdfce;
+border: 1px solid #ffdfce;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+}
+
+.sete-letras{
+
+    display: inline-block;
+    margin: 10px 156px;
+    font-size: 19px;
+
+
+    background: #ffdfce;
+    border: 1px solid #ffdfce;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+
+}
+
+.oito-letras{
+
+
+    display: inline-block;
+    margin: 10px 165px;
+    font-size: 19px;
+
+
+    background: #ffdfce;
+    border: 1px solid #ffdfce;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+
+}
+
+.HISTORIA{
+
+margin: 40px 880px 0  880px;
+
+}
+
+.video{
+
+display: inline-block;
+margin: 0 650px  50px 650px;
+
+
+}
